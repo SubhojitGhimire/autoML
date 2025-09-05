@@ -86,6 +86,8 @@ The application should now be open and accessible in your web browser. The appli
 <br>
 <img width="1921" height="2285" alt="Image: Model Configuration" src="https://github.com/user-attachments/assets/432b7ba5-953f-4b52-8c99-0892003a70d5" />
 <br>
+<img width="1920" height="1519" alt="Image: Configuration Summary" src="https://github.com/user-attachments/assets/ef70ab8a-1a8a-475f-a389-675cc4a94232" />
+<br>
 <img width="1920" height="912" alt="Image: Progress History Active Model" src="https://github.com/user-attachments/assets/c2a62aa4-2a38-4ca5-84cf-83d6e7f65c39" />
 <br>
 <img width="1920" height="2108" alt="Image: Progress History Completed Model" src="https://github.com/user-attachments/assets/37f860a5-9397-40c5-983f-dcdad01e4009" />
