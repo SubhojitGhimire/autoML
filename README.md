@@ -5,7 +5,7 @@
 
 An interactive web application for automated machine learning, built with Streamlit. This tool allows users to upload their data, perform feature engineering, and train models for various ML tasks, including Time Series Forecasting, Regression, Classification, and Outlier Detection. It leverages Ray for distributed, parallel training to accelerate the model building process.
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7336e17a-8414-4588-b545-d0f6cbb20845" />
+<img width="1919" height="1016" alt="Image: Upload Data" src="https://github.com/user-attachments/assets/c701971f-8c8a-40ca-8b12-063bd0330342" />
 
 ---
 
@@ -80,17 +80,17 @@ The application should now be open and accessible in your web browser. The appli
 
 ## Screenshots
 
-<img width="1920" height="1385" alt="image" src="https://github.com/user-attachments/assets/39293c6a-e8c0-4099-b782-c5e5acd07592" />
+<img width="1920" height="1722" alt="Image: Data Overview" src="https://github.com/user-attachments/assets/e8684928-480e-4632-be16-68edf797639f" />
 <br>
-<img width="1920" height="2030" alt="image" src="https://github.com/user-attachments/assets/430763a7-8b21-46f8-a2c0-5cec4584476d" />
+<img width="1920" height="2214" alt="Image: Feature Engineering" src="https://github.com/user-attachments/assets/96d52f3b-3279-42cf-ae48-9104d5b6d38f" />
 <br>
-<img width="1920" height="2030" alt="image" src="https://github.com/user-attachments/assets/ab2e6026-2e5f-48e6-81ff-96b777be6150" />
+<img width="1921" height="2285" alt="Image: Model Configuration" src="https://github.com/user-attachments/assets/432b7ba5-953f-4b52-8c99-0892003a70d5" />
 <br>
-<img width="1920" height="1385" alt="image" src="https://github.com/user-attachments/assets/68f66f8b-28ea-4a82-bbfe-0890be16df1c" />
+<img width="1920" height="912" alt="Image: Progress History Active Model" src="https://github.com/user-attachments/assets/c2a62aa4-2a38-4ca5-84cf-83d6e7f65c39" />
 <br>
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/875b8a04-87b6-42a0-bc07-61749e029edd" />
+<img width="1920" height="2108" alt="Image: Progress History Completed Model" src="https://github.com/user-attachments/assets/37f860a5-9397-40c5-983f-dcdad01e4009" />
 <br>
-<img width="1920" height="1385" alt="image" src="https://github.com/user-attachments/assets/8f9ab047-2581-4745-a756-4b5f32173ae0" />
+<img width="1451" height="1407" alt="Image: Terminal" src="https://github.com/user-attachments/assets/f30b5f70-e895-467e-83f2-ea80c9d2c2a4" />
 
 <h1></h1>
 
